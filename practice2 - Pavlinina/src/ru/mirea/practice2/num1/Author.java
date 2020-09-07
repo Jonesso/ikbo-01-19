@@ -1,9 +1,13 @@
 package ru.mirea.practice2.num1;
 
+import ru.mirea.practice2.num2.Ball;
+
 public class Author {
     private String name;
     private String email;
     private char gender;
+
+    public Author(){}
 
     public Author(String name, String email, char gender) {
         this.name = name;
