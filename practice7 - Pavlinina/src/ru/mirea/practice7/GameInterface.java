@@ -108,6 +108,7 @@ public class GameInterface extends JFrame {
         botva.setVisible(false);
         showLeftCards();
         resetButton.setVisible(false);
+        nextButton.setVisible(true);
     }
 
     private void nextCard() {
