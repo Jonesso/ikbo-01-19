@@ -22,4 +22,8 @@ public class Task2 extends JFrame {
         pack();
         setVisible(true);
     }
+
+    public static void main(String[] args) {
+        new Task2("C:\\Users\\sonya\\Documents\\Sharaga\\Java\\nature.jpg");
+    }
 }
