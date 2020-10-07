@@ -9,6 +9,8 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.StringTokenizer;
 
+//Для корректной работы файл должен быть помещен в корневую папку проекта - в данном случае это файл words.txt
+
 public class Words {
 
     public static void main(String[] args) throws IOException {
